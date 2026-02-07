@@ -1,0 +1,26 @@
+c:\users\chalanamina\documents\visual studio 2012\Projects\carsalemanagementsystem\carsalemanagementsystem\bin\Debug\carsalemanagementsystem.exe.config
+C:\Users\Chalanamina\documents\visual studio 2012\Projects\carsalemanagementsystem\carsalemanagementsystem\bin\Debug\carsalemanagementsystem.exe
+C:\Users\Chalanamina\documents\visual studio 2012\Projects\carsalemanagementsystem\carsalemanagementsystem\bin\Debug\carsalemanagementsystem.pdb
+C:\Users\Chalanamina\documents\visual studio 2012\Projects\carsalemanagementsystem\carsalemanagementsystem\obj\Debug\carsalemanagementsystem.csprojResolveAssemblyReference.cache
+C:\Users\Chalanamina\documents\visual studio 2012\Projects\carsalemanagementsystem\carsalemanagementsystem\obj\Debug\carsalemanagementsystem.carinfo.resources
+C:\Users\Chalanamina\documents\visual studio 2012\Projects\carsalemanagementsystem\carsalemanagementsystem\obj\Debug\carsalemanagementsystem.dashboard.resources
+C:\Users\Chalanamina\documents\visual studio 2012\Projects\carsalemanagementsystem\carsalemanagementsystem\obj\Debug\carsalemanagementsystem.login.resources
+C:\Users\Chalanamina\documents\visual studio 2012\Projects\carsalemanagementsystem\carsalemanagementsystem\obj\Debug\carsalemanagementsystem.Properties.Resources.resources
+C:\Users\Chalanamina\documents\visual studio 2012\Projects\carsalemanagementsystem\carsalemanagementsystem\obj\Debug\carsalemanagementsystem.csproj.GenerateResource.Cache
+C:\Users\Chalanamina\documents\visual studio 2012\Projects\carsalemanagementsystem\carsalemanagementsystem\obj\Debug\carsalemanagementsystem.exe
+C:\Users\Chalanamina\documents\visual studio 2012\Projects\carsalemanagementsystem\carsalemanagementsystem\obj\Debug\carsalemanagementsystem.pdb
+C:\Users\Chalanamina\documents\visual studio 2012\Projects\carsalemanagementsystem\carsalemanagementsystem\obj\Debug\carsalemanagementsystem.customerinfo.resources
+C:\Users\Chalanamina\documents\visual studio 2012\Projects\carsalemanagementsystem\carsalemanagementsystem\obj\Debug\carsalemanagementsystem.salesinfo.resources
+C:\Users\Chalanamina\Music\00243287\carsalemanagementsystem\carsalemanagementsystem\bin\Debug\carsalemanagementsystem.exe.config
+C:\Users\Chalanamina\Music\00243287\carsalemanagementsystem\carsalemanagementsystem\obj\Debug\carsalemanagementsystem.exe
+C:\Users\Chalanamina\Music\00243287\carsalemanagementsystem\carsalemanagementsystem\obj\Debug\carsalemanagementsystem.pdb
+C:\Users\Chalanamina\Music\00243287\carsalemanagementsystem\carsalemanagementsystem\bin\Debug\carsalemanagementsystem.exe
+C:\Users\Chalanamina\Music\00243287\carsalemanagementsystem\carsalemanagementsystem\bin\Debug\carsalemanagementsystem.pdb
+C:\Users\Chalanamina\Music\00243287\carsalemanagementsystem\carsalemanagementsystem\obj\Debug\carsalemanagementsystem.csprojResolveAssemblyReference.cache
+C:\Users\Chalanamina\Music\00243287\carsalemanagementsystem\carsalemanagementsystem\obj\Debug\carsalemanagementsystem.carinfo.resources
+C:\Users\Chalanamina\Music\00243287\carsalemanagementsystem\carsalemanagementsystem\obj\Debug\carsalemanagementsystem.customerinfo.resources
+C:\Users\Chalanamina\Music\00243287\carsalemanagementsystem\carsalemanagementsystem\obj\Debug\carsalemanagementsystem.dashboard.resources
+C:\Users\Chalanamina\Music\00243287\carsalemanagementsystem\carsalemanagementsystem\obj\Debug\carsalemanagementsystem.login.resources
+C:\Users\Chalanamina\Music\00243287\carsalemanagementsystem\carsalemanagementsystem\obj\Debug\carsalemanagementsystem.Properties.Resources.resources
+C:\Users\Chalanamina\Music\00243287\carsalemanagementsystem\carsalemanagementsystem\obj\Debug\carsalemanagementsystem.salesinfo.resources
+C:\Users\Chalanamina\Music\00243287\carsalemanagementsystem\carsalemanagementsystem\obj\Debug\carsalemanagementsystem.csproj.GenerateResource.Cache
